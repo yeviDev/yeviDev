@@ -18,4 +18,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011956212947">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=flat-square&logo=Javascript&logoColor=black"/>
   </a>
+  <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&theme=radical)
 </div>
