@@ -1,4 +1,4 @@
-<img src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/7.8.0/png/iconmonstr-quote-left-filled.png&r=0&g=0&b=0'/>
+<img src='https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg' width="300"/>
 <!--
 **kyjprograming/kyjprograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
