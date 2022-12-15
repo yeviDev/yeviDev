@@ -1,5 +1,4 @@
-<div style="bacgroundColor: "red; width: 100%; height: 100px">
-</div>
+<img src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/7.8.0/png/iconmonstr-quote-left-filled.png&r=0&g=0&b=0'/>
 <!--
 **kyjprograming/kyjprograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
