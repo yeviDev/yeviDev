@@ -16,7 +16,7 @@
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
   <a href="https://www.facebook.com/profile.php?id=100011956212947">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=?style=for-the-badge&logo=Javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=?style=for-the-badge&logo=Javascript&logoColor=black"/>
   </a>
   <br>
   <br>
