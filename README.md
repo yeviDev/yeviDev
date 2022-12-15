@@ -19,5 +19,5 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=flat-square&logo=Javascript&logoColor=black"/>
   </a>
   <br>
-  <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&theme=radical'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true'/>
 </div>
