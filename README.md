@@ -1,7 +1,8 @@
+<div>
 <img src='https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg' width="50"/>
-# 김영준
-<br>
-<span>성일정보고등학교</span>
+  <span style="">김영준</span>
+</div>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **kyjprograming/kyjprograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
