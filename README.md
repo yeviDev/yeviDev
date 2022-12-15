@@ -1,4 +1,5 @@
 <img src='https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg' width="50"/>
+<span style="fontWeight: bold">김영준</span>
 <!--
 **kyjprograming/kyjprograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
