@@ -13,6 +13,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011956212947">
     <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
   </a>
-</div>
-<div align="center">
+  <br>
+  <h4>⚒️Tech Stack⚒️</h4>
 </div>
