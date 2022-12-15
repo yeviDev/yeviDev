@@ -11,7 +11,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011956212947">
-    <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white&color=red"/>
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
