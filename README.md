@@ -1,4 +1,4 @@
-<span style="color:blue;font-weight:bold;">김영준</span>
+**김영준**
 <img src='https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg' width="50"/>
 
 <!--
