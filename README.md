@@ -38,7 +38,7 @@
   <br>
   <br>
   <br>
-    <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&customtitle=test'/>
 
   <br>
 </div>
