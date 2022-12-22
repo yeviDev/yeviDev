@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='test.jpg' style="width: 10"/>
+  <img src='test.jpg'/>
   </img>
   <h4>🐤My SNS🐤</h4>
   <a href="https://www.instagram.com/183_yj/">
