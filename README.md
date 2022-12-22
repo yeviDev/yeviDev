@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-scare&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-scare&logo=CSS3&logoColor=white"/>
   <h5>New Study</h5>
-  <img src="https://img.shields.io/badge/React-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/React-262B31?style=flat-sare&logo=React&logoColor=61DBFB"/>
   <br>
   <br>
   <br>
   <br>
   <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true'/>
   <br>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=kyjprogramingf&repo=github-visitors-scare&countColor=%237B1E7A" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=kyjprogramingf&repo=github-visitors-scare&countColor=%black" />
 </div>
