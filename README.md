@@ -15,11 +15,11 @@
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
-  <img src="https://img.shields.io/badge/Android-5382A1?style=for-the-badge&logo=ANDROID&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=ANDROID&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=for-the-badge&logo=React&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/Java-32DE84?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=JAVA&logoColor=white"/>
   <br>
   <br>
   <br>
