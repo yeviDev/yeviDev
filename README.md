@@ -38,5 +38,5 @@
   <br>
   <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true'/>
   <br>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=kyjprogramingf&repo=github-visitors-scare&countColor=%black" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=kyjprogramingf&repo=github-visitors-scare&countColor=%skyblue" />
 </div>
