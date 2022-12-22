@@ -1,5 +1,5 @@
 <dl>
-<dd>
+
 <div align="center">
   <img src='https://thumbs.gfycat.com/WelltodoCarefreeBarnowl-size_restricted.gif'/>
   <br>
@@ -57,5 +57,4 @@
     <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&customtitle=김영준의'/>
   <br>
 </div>
-  </dd>
 </dl>
