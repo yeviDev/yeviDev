@@ -33,10 +33,18 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=Github"/>
   <h4>✏Study ing✏</h4>
   <h5>More Study</h5>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <a href="https://www.typescriptlang.org/ko/docs/handbook/2/basic-types.html">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
+  </a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
+  </a>
   <h5>New Study</h5>
   <img src="https://img.shields.io/badge/React-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Redux-262B31?style=flat-square&logo=Redux&logoColor=764ABC"/>
