@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
   <a>
-     <img src="https://img.shields.io/badge/Kakaotalk-white?style=flat-square&logo=kakaotalk&logoColor=FFFF00"/>
+     <img src="https://img.shields.io/badge/Kakaotalk-FFFF00?style=flat-square&logo=kakaotalk&logoColor=391B1B"/>
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
