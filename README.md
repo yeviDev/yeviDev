@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=ANDROID&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=OkHttp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Oktttp&logoColor=white"/>
   <br>
   <br>
   <br>
