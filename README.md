@@ -18,6 +18,9 @@
   <a href="https://coderin.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
+  <a>
+     <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=kakaotalk&logoColor=FFFF00"/>
+  </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
@@ -29,7 +32,6 @@
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gitlab-8c929d?style=flat-square&logo=Gitlab"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=Github"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=Githubdesktop"/>
   <h4>✏Study ing✏</h4>
   <h5>More Study</h5>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/>
