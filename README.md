@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=flat-scare&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=ANDROID&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Oktttp&logoColor=white"/>
   <br>
