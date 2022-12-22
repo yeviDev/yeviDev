@@ -14,13 +14,13 @@
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
-  <img src="https://img.shields.io/badge/React Native-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-scare&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-scare&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?style=flat-scare&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-264de4?style=flat-scare&logo=CSS2&logoColor=white"/>
   <h4>✏Study - ing✏</h4>
   <h5>More Study</h5>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
