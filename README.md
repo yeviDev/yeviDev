@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=flat-scare&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/Java-5382A1?style=flat-scare&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-5382A1?style=flat-scare&logo=Java&logoColor=white"/>
   <br>
   <br>
   <br>
