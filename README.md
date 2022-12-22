@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://coderin.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory"/>
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
