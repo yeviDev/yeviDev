@@ -22,7 +22,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-scare&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-scare&logo=CSS3&logoColor=white"/>
   <h4>✏Study - ing✏</h4>
-  <li>More Study - ing<li><img src="https://img.shields.io/badge/React-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/></li></li>
+  <h3>✏More Study✏</h3>
+  <img src="https://img.shields.io/badge/React-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
+  <h3>✏New Study✏</h3>
+  <img src="https://img.shields.io/badge/React-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
   <br>
   <br>
   <br>
