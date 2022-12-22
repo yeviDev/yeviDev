@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=for-the-badge&logo=React&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=white"/>
   <br>
   <br>
   <br>
