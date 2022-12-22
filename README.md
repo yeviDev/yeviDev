@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gitlab-fc6d27?style=flat-square&logo=Gitlab"/>
+  <img src="https://img.shields.io/badge/Gitlab-8c929d?style=flat-square&logo=Gitlab"/>
   <h4>✏Study ing✏</h4>
   <h5>More Study</h5>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/>
