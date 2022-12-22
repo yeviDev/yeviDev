@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="background-image: url(https://a.cdn-hotels.com/gdcs/production76/d265/e51b6f6a-0290-490e-a569-7d23b5385fc0.jpg); height: 200px; width: 400px; border: 1px solid black;">Example of a DIV element with a background image:</div>
+  <div style="background-image: url(./test.jpg); height: 200px; width: 400px; border: 1px solid black;">Example of a DIV element with a background image:</div>
   <h4>🐤My SNS🐤</h4>
   <a href="https://www.instagram.com/183_yj/">
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
