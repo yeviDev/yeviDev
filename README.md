@@ -15,7 +15,7 @@
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
-  <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=for-the-badge&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <br>
   <br>
