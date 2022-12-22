@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='[test.jpg](https://thumbs.gfycat.com/WelltodoCarefreeBarnowl-size_restricted.gif)'/>
+  <img src='https://thumbs.gfycat.com/WelltodoCarefreeBarnowl-size_restricted.gif'/>
   </img>
   <h4>🐤My SNS🐤</h4>
   <a href="https://www.instagram.com/183_yj/">
