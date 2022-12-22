@@ -36,9 +36,6 @@
   <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <h5>New Study</h5>
   <img src="https://img.shields.io/badge/React-262B31?style=for-the-badge&logo=React&logoColor=61DBFB"/>
-  <h4>My GitHub Vistors</h4>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-            url=https%3A%2F%2Fgithub.com%2Fkyjprograming&count_bg=%%23E7E7E7&title_bg=%%23E7E7E7&icon=Javascript&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   <br>
   <br>
   <br>
