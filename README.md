@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-7F52FF?style=flat-scare&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-7F52FF?style=for-the-badge&logo=CSS&logoColor=white"/>
   <br>
   <br>
   <br>
