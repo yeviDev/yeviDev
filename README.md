@@ -1,6 +1,5 @@
 <div align="center">
-  <img src='https://media2.giphy.com/media/G1T5M0qT6ZJlu/giphy.gif?cid=ecf05e471saahtbkwov27ayydcuzrny21nyj0w0z2018xubk&rid=giphy.gif&ct=g'>
-    테스트
+  <img src='test.jpg' style="width: 10"/>
   </img>
   <h4>🐤My SNS🐤</h4>
   <a href="https://www.instagram.com/183_yj/">
