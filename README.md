@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-scare&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-scare&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-scare&logo=CSS3&logoColor=white"/>
+  <h4>✏Study - ing✏</h4>
   <br>
   <br>
   <br>
