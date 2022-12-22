@@ -14,7 +14,7 @@
   </a>
   <br>
   <h4>⚒️Tech Stack⚒️</h4>
-  <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/React Native-262B31?style=flat-scare&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-scare&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-scare&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-scare&logo=Android&logoColor=white"/>
