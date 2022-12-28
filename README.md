@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src='https://thumbs.gfycat.com/WelltodoCarefreeBarnowl-size_restricted.gif'/>
-  <img src='https://avatars.githubusercontent.com/u/87963601?s=400&u=74c480da71896ad736b11d3c9d4c868acf0abb4e&v=4' border-radius="5"/>
+  <img src='https://avatars.githubusercontent.com/u/87963601?s=400&u=74c480da71896ad736b11d3c9d4c868acf0abb4e&v=4' borderRadius="5"/>
   <br>
   <br>
   <h4>🐤My Sns🐤</h4>
