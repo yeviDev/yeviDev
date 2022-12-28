@@ -7,9 +7,8 @@
     <b>김영준</b><br>
     age: 19<br>
     job: sungilinfo highschool student<br>
-    interesting it field:
     interesting dev field: mobile application<br>
-    
+    my study tech stack: react, react native, android
   </div>
   <br>
   <br>
