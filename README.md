@@ -5,10 +5,10 @@
     <img src='https://thumbs.gfycat.com/WelltodoCarefreeBarnowl-size_restricted.gif'/>
     <div>
      <img src="https://avatars.githubusercontent.com/u/87963601?s=400&u=74c480da71896ad736b11d3c9d4c868acf0abb4e&v=4" width="100" height="100">
-      <div align="center">
+      <span>
           <h4>김영준</h4> 19살
           <span></span>
-      </div>
+      </span>
     </div>
   </div>
   
