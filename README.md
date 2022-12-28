@@ -57,11 +57,11 @@
   <img src="https://img.shields.io/badge/React-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Redux-262B31?style=flat-square&logo=Redux&logoColor=764ABC"/>
   <!-- <img src="https://img.shields.io/badge/Spring-5FB832?style=flat-square&logo=Spring&logoColor=black"/>
-  <h4><img src="https://img.shields.io/badge/.-FFFFFF?style=flat-square&logo=GitHub&logoColor=764ABC"/>My GitHub Vistors</h4>
+  <h4>My GitHub Vistors</h4>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyjprograming&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
   <br>
   <br>
-  <h4>My GitHub Stats</h4>
+  <h4><img src="https://img.shields.io/badge/.-FFFFFF?style=flat-square&logo=GitHub&logoColor=764ABC"/>My GitHub Stats</h4>
     <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&customtitle=김영준의'/>
   <br>
 </div>
