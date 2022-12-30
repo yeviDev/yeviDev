@@ -8,7 +8,8 @@
     age: 19<br>
     job: sungilinfo highschool student<br>
     interesting dev field: mobile application<br>
-    my study tech stack: react, react native, android
+    my study tech stack: react, react native, android<br>
+    extramural activities: Experience as a mobile app developer at mcloudoc
   </div>
   <br>
   <br>
