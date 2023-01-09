@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
   </a>
   <h4>🐤My Portfolio🐤</h4>
-  <a href="https://parallel-flax-a90.notion.site/Kim-s-Dev-Study-a49238bd3ba5471db7a50c9d13f593b3">
+  <a href="https://likeable-swing-07d.notion.site/Kim-s-Dev-Study-95a38ccb904d499da26a5a929cde90a1">
     <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://coderin.tistory.com">
