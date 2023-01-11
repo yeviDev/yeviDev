@@ -6,7 +6,7 @@
     <img src="https://avatars.githubusercontent.com/u/87963601?s=400&u=74c480da71896ad736b11d3c9d4c868acf0abb4e&v=4" width="200" height="200"><br>
     <b>young-jun Kim</b><br>
     <div align="flex-start">
-    age: 19<br>
+    age: 20<br>
     job: sungilinfo highschool student<br>
     interesting dev field: mobile application<br>
     my study tech stack: react, react native, android<br>
