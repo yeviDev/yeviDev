@@ -61,7 +61,7 @@
   <br>
   <br>
   <h4>📝My GitHub Stats📝</h4>
-    <img src='https://github-readme-stats.vercel.app/api?username=kyjprograming&show_icons=true&customtitle=김영준의'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=Yebiprogrammer&show_icons=true&customtitle=김영준의'/>
   <br>
 </div>
 </dl>
