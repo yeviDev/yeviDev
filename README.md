@@ -29,13 +29,13 @@
     <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
   <br>
-  <h4>⚒️The Tech stack I've used⚒️</h4>
+  <h4>⚒️The Tech Stack</h4>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=Github"/>
   <h4>✏Study ing✏</h4>
   <img src="https://img.shields.io/badge/ReactNative-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
@@ -46,14 +46,14 @@
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
   </a>
-  <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
+<!--   <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   </a>
   <a href="https://developer.mozilla.org/ko/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
   </a>
   <h5>🥰New Study🥰</h5>
-  <img src="https://img.shields.io/badge/React-262B31?style=flat-square&logo=React&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/React-262B31?style=flat-square&logo=React&logoColor=61DBFB"/> -->
   <h4>My GitHub Vistors</h4>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyjprograming&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
   <br>
