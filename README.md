@@ -6,5 +6,5 @@
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white"/>
   <br>
-  _for study..._
+  *기울기*
 </dl>
