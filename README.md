@@ -16,10 +16,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011956212947">
     <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
   </a>
-<!--   <a href="https://yevi.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-595959?style=flat-square&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="https://parallel-flax-a90.notion.site/yeppi-mobile-tech-notion-2e3793f5ef32409a9704b0dda2accd10">
-    <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
-  </a> -->
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04)
 </dl>
