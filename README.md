@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java"/><br>
   <h4><i>for study...</i></h4>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&&logoColor=white"/>
   <h4>GitHub Stacks</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=yevi04&show_icons=true"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04">
