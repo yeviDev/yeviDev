@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=Java&&logoColor=white"/>
   <h4><i>for study...</i></h4>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=Redux&&logoColor=white"/>
   <h4>GitHub Stacks</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=yevi04&show_icons=true"><br>
