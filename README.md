@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=350&section=header&text=youngjun%&fontSize=90)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <div align="center">
 
@@ -21,8 +22,6 @@
 
 --- 
 
-<div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/><br>
 <div align="center">  
 <b>🛠 Tech used for work 🛠</b>
 </div>
