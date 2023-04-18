@@ -49,6 +49,6 @@
   
 ---
   
-![trophy](https://github-profile-trophy.vercel.app/?username=yevi04&theme=chalk&row=1&column=7&margin-w=10)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=yevi04"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=yevi04&theme=chalk&row=1&column=7&margin-w=10)  
+  
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=yevi04"/> -->
