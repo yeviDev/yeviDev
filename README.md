@@ -22,9 +22,9 @@
 --- 
 
 <div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/><br>
 <div align="center">  
-<b>🛠 Tech used for work 🛠</b><br>
+<b>🛠 Tech used for work 🛠</b>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
