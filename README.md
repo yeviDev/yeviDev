@@ -6,12 +6,10 @@
 <div align="center">
 
 ### Yevi04
-<a>
-<a href=""><img src="https://img.shields.io/badge/Notion-34567C?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-<a href="https://yevi.tistory.com/"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white&link=https://yevi.tistory.com/"/></a>&nbsp
-<a href="https://www.instagram.com/mobile_yj_04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mobile_yj_04/"/></a>&nbsp
+<a href=""><img src="https://img.shields.io/badge/Notion-34567C?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://yevi.tistory.com/"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white&link=https://yevi.tistory.com/"/></a>
+<a href="https://www.instagram.com/mobile_yj_04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mobile_yj_04/"/></a>
 <a href="https://www.facebook.com/profile.php?id=100011956212947"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016589911133"/></a>
-</a>
 </div>
 
 ---
@@ -22,6 +20,7 @@
 
 --- 
 
+<br/>
 <div align="center">  
 <b>🛠 Tech used for work 🛠</b>
 </div>
