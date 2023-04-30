@@ -10,24 +10,26 @@
   
 ---
   
-<b>Development for everyone's convenience</b>
+### I want become developer for everyone's convenience
 
 ---
 </div>
-
-
-
 <div align="center">
 
-**🛠 Use for work 🛠**
+**🛠 Use Possible for Work 🛠**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-1C2C4C?style=flat-square&logo=React&logoColor=white)
-  
-**🛠 Studying.. 🛠**
 
+**✏️ Studying.. ✏️**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+
+**📝 Has Studied 📝**
+  
+![React Native](https://img.shields.io/badge/ReactNative-1C2C4C?style=flat-square&logo=React&logoColor=white)
   
 **🔩 Tools 🔩**
 
@@ -35,8 +37,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-  
 </div>
+
+---
+
 <div align="center">
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
