@@ -32,7 +32,7 @@
 **🔩 Tools 🔩**
 
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
   
