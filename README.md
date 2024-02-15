@@ -6,7 +6,7 @@
 ### YOUNGJUN
 
 [![tistory](https://img.shields.io/badge/Tistory-EE5205?style=flat-square&logo=Tistory&logoColor=white)](https://yevi.tistory.com) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mobile_yj_04)
+<!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mobile_yj_04)-->
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011956212947)
   
 ---
