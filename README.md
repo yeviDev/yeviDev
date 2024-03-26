@@ -1,47 +1,53 @@
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="auto">
 
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=350&section=header&text=youngjun%&fontSize=90)
 
-### YOUNGJUN
+### Hello, I'm DevJunx 👋
+[![Gmail Badge](https://img.shields.io/badge/-1kimjungbin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1kimjungbin@gmail.com)](mailto:1kimjungbin@gmail.com) 
 
-[![tistory](https://img.shields.io/badge/Tistory-EE5205?style=flat-square&logo=Tistory&logoColor=white)](https://yevi.tistory.com) 
-<!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mobile_yj_04)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011956212947)-->
-  
----
-  
-### I want become developer for everyone's convenience
+**Greetings** 🙇‍♂️ <br>
+⚡ I'm studying frontend development 🤓
 
----
-</div>
-<div align="center">
+<hr>
 
-**🛠 Use Possible for Work 🛠**
+**Study-ing** 👨🏻‍💻
+- **Front-End Development** 💻 <br>
+![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-<!--![React Native](https://img.shields.io/badge/ReactNative-1C2C4C?style=flat-square&logo=React&logoColor=white)-->
+- **Mobile Development** 📱 <br>
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
 
-**✏️ Studying.. ✏️**
+<img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJunx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact"/>
+<hr>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+**Tech Stack** 🛠
 
-**🔩 Tools 🔩**
+- **Front-End** 🌐 <br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat_square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat_square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat_square&logo=node.js&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
-<!--![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)-->
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+- **Mobile** 📱 <br>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat_square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
 
-</div>
+- **DevOps** 🚧 <br>
+![FireStore](https://img.shields.io/badge/-FireStore-FFCA28?style=flat&logo=firebase&logoColor=white)
 
----
+<img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
+<hr>
 
-<div align="center">
+- **Collaboration** 💬 <br>
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat_square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevi04&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
-![trophy](https://github-profile-trophy.vercel.app/?username=yevi04&theme=chalk&row=1&column=7&margin-w=10)
+- **Tools** 🔧 <br>
+![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 
-</div>
+<hr>
+<center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
