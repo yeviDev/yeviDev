@@ -3,7 +3,9 @@
 
 
 ### Hello, I'm DevJunx 👋
-[![Gmail Badge](https://img.shields.io/badge/-1kimjungbin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1kimjungbin@gmail.com)](mailto:1kimjungbin@gmail.com) 
+
+**Contact**<br>
+Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com) 
 
 **Greetings** 🙇‍♂️ <br>
 ⚡ I'm studying frontend development 🤓
@@ -13,6 +15,7 @@
 **Study-ing** 👨🏻‍💻
 - **Front-End Development** 💻 <br>
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
 - **Mobile Development** 📱 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
@@ -35,7 +38,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
 
-- **DevOps** 🚧 <br>
+- **Dev-Ops** 🚧 <br>
 ![FireStore](https://img.shields.io/badge/-FireStore-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
@@ -47,7 +50,9 @@
 
 - **Tools** 🔧 <br>
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logo=visualstudiocode&logoColor=white)
-![VSCode](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
+![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
 
+<br>
 <hr>
 <center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
