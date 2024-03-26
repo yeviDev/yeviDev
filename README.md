@@ -1,6 +1,6 @@
 ## Hello, I'm DevJunx 👋
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="400" b>
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="420" b>
 
 **Contact**<br>
 Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com) 
@@ -11,7 +11,7 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 <hr>
 
 **Study-ing** 👨🏻‍💻
-- **Front-End Development** 💻 <br>
+- **Front-End Development** 🌐 <br>
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
@@ -49,6 +49,4 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logo=visualstudiocode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
-<br>
-<hr>
 <center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
