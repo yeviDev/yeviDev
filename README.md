@@ -1,6 +1,6 @@
 ## Hello, I'm DevJunx 👋
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="420" b>
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="380" b>
 
 **Contact**<br>
 Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com) 
