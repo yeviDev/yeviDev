@@ -11,7 +11,7 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 <hr>
 
 **Study-ing** 👨🏻‍💻
-- **Front-End Development** 🌐 <br>
+- **Front-End Development** 🖥️ <br>
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
@@ -23,7 +23,7 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 
 **Tech Stack** 🛠
 
-- **Front-End** 🌐 <br>
+- **Front-End** 🖥️ <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat_square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat_square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
@@ -50,5 +50,6 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
 
+- **SNS** 🌐
 <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
 <center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
