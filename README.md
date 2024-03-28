@@ -19,6 +19,8 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
 
+---
+
 **Tech Stack** 🛠
 
 - **Front-End** 🌐 <br>
@@ -29,12 +31,12 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat_square&logo=node.js&logoColor=white)
 
 <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJunx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact"/>
-<hr>
 
 - **Mobile** 📱 <br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat_square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
 - **Dev-Ops** 🚧 <br>
 ![FireStore](https://img.shields.io/badge/-FireStore-FFCA28?style=flat&logo=firebase&logoColor=white)
@@ -43,10 +45,10 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat_square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
 
-<img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
-
 - **Tools** 🔧 <br>
 ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logo=visualstudiocode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
+
+<img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
 <center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
