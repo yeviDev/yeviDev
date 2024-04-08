@@ -11,11 +11,11 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 <hr>
 
 **Study-ing** 👨🏻‍💻
-- **Front-End Development** 🖥️ <br>
+- **Front-End** 🖥️ <br>
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
-- **Mobile Development** 📱 <br>
+- **Mobile** 📱 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
 
