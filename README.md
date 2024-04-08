@@ -50,8 +50,8 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
 
-- **SNS** 🌐
-![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat_square&logo=instagram&logoColor=white)
+- **SNS** 🌐 <br>
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat_square&logo=instagram&logoColor=white)](https://www.instagram.com/jjun._.221/?next=%2F)
 
 <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/>
 <center><img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/></center>
