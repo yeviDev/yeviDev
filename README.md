@@ -72,8 +72,8 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 ---
 
 <p align="center">
-  <img align="center" width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula"/> <img align="center" width="auto" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJunx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact"/>
-<img align="center" width="auto" height="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif
-"/>
+  <img align="center" width="10%" height="auto" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
+  <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=devJunx&show_icons=true&theme=dracula&border_radius=5"/> 
+  <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJunx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact"/>
 </p>
 <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/>
