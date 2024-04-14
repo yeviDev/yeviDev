@@ -53,8 +53,8 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 
 **SNS && Education** 🤙
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="280" height="auto">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="280" height="auto">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" height="auto">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" height="auto">
 
 - **SNS** 🌐 <br>
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat_square&logo=instagram&logoColor=white)](https://www.instagram.com/jjun._.221/?next=%2F)
