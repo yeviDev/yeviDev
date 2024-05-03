@@ -77,3 +77,9 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
   <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJunx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact"/>
 </p>
 <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=devJunx&theme=dracula"/>
+
+<p align="center">
+
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJunx&count_bg=%233DDC84&title_bg=%23808080&icon=android.svg&icon_color=%233DDC84&title=hits&edge_flat=false)](https://hits.seeyoufarm.com">
+
+</p>
