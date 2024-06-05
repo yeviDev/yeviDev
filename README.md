@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder GIF" width="440" height="auto">
 
 **Contact**<br>
-Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
+Email📧 : [yevi0307@gmail.com](mailto:yevi0307@gmail.com)
 
 **Greetings** 🙇‍♂️ <br>
 - I'm studying for become **"Front-End & Mobile developer"**!
@@ -27,9 +27,9 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
 - **Front-End** 🖥️ <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat_square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat_square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat_square&logo=node.js&logoColor=white)
+<!![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
+--![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat_square&logo=node.js&logoColor=white)-->
 
 - **Mobile** 📱 <br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat_square&logo=openjdk&logoColor=white)
@@ -64,9 +64,11 @@ Email📧 : [devjunx1@gmail.com](mailto:devjunx1@gmail.com)
   - 성일정보고등학교 <img width="15" height="15" src="https://i.namu.wiki/i/hKH-c9w4fWo2Bp69llp-OMuz0yrnYkPzb94qNU6GOdJRIYgVgXtjY2q_gd7JY1T-wFpXv0Ht4Z59Co-PkDhwQLU2sHlmcMa9oKg5Zhmz7gHPrcOZWIzEAsoATC7O32PxMUdxEMNkxNFx10ctpg82OA.webp">
     - 전공 : 소프트웨어개발과💻
     - 분류 : 사립학교, 특성화고
+    - 여부 : 졸업
   - 동서울대학교 <img width="15" height="15" src="https://i.namu.wiki/i/uR2xBcsd3zPHJZQU5-9IdMQ-DLztskIeWBaPGsfT3lAuWAaHe5GwGiGABWET_3rTqarjwFs56tu12E5XjQ3c08rUgdp27U9nDEKerB_dCZocDJf4KipU1FZDJPnpASht8eRcUrv3VX4p-bK5IoVR-Q.svg">
     - 전공 : 컴퓨터소프트웨어학과💻
     - 분류 : 사립대학, 전문대학 (2/3/4년제)
+    - 여부 : 재학
 <br>
 
 ---
