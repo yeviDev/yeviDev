@@ -27,8 +27,8 @@ Email📧 : [yevi0307@gmail.com](mailto:yevi0307@gmail.com)
 - **Front-End** 🖥️ <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat_square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=flat_square&logo=css3&logoColor=white)
-<!![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
---![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
+<!--![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat_square&logo=node.js&logoColor=white)-->
 
 - **Mobile** 📱 <br>
